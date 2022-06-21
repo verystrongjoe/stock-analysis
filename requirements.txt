@@ -4,7 +4,7 @@ get==0.0.0
 gevent==1.2.2
 greenlet==0.4.12
 idna==2.6
-numpy==1.13.3
+numpy==1.22.0
 pandas==0.20.3
 post==0.0.0
 psycopg2==2.7.3.1
